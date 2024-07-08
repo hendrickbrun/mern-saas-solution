@@ -1,0 +1,827 @@
+{
+  "regulations": [
+    {
+      "id": "8ccq7dl2u",
+      "name": "Regulation 1 for Finance in USA",
+      "description": "1. Securities Exchange Act of 1934",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "y83tttdkl",
+      "name": "Regulation 2 for Finance in USA",
+      "description": "   Description: This regulation established the Securities and Exchange Commission (SEC) to oversee securities exchanges and trading to protect investors and maintain fair and efficient markets.",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "wtrkuhubi",
+      "name": "Regulation 3 for Finance in USA",
+      "description": "",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "mtoh0lkau",
+      "name": "Regulation 4 for Finance in USA",
+      "description": "2. Dodd-Frank Wall Street Reform and Consumer Protection Act",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "czh24z27c",
+      "name": "Regulation 5 for Finance in USA",
+      "description": "   Description: This legislation implemented several regulations to prevent another financial crisis, including increased oversight of financial institutions, regulation of derivatives markets, and the establishment of the Consumer Financial Protection Bureau.",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "wbiodbrth",
+      "name": "Regulation 6 for Finance in USA",
+      "description": "",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "v4gtap95w",
+      "name": "Regulation 7 for Finance in USA",
+      "description": "3. Bank Secrecy Act (BSA) ",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "mqpfg23gn",
+      "name": "Regulation 8 for Finance in USA",
+      "description": "   Description: The BSA requires financial institutions to help detect and prevent money laundering and terrorist financing by monitoring and reporting suspicious activities to the authorities.",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "mhw5md8f5",
+      "name": "Regulation 9 for Finance in USA",
+      "description": "",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "xn53q29kl",
+      "name": "Regulation 10 for Finance in USA",
+      "description": "4. Financial Industry Regulatory Authority (FINRA) rules",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "o026e4jgh",
+      "name": "Regulation 11 for Finance in USA",
+      "description": "   Description: FINRA establishes rules and regulations for broker-dealers to promote market integrity and investor protection, covering areas such as registration, supervision, trading practices, and customer communications.",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "t5pxpq5zp",
+      "name": "Regulation 12 for Finance in USA",
+      "description": "",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "v038yrljt",
+      "name": "Regulation 13 for Finance in USA",
+      "description": "5. Sarbanes-Oxley Act",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "1qfzwg2wl",
+      "name": "Regulation 14 for Finance in USA",
+      "description": "   Description: This regulation enhances corporate governance and financial reporting requirements for public companies to protect investors and prevent accounting fraud, through measures such as CEO and CFO certification of financial statements and increased disclosure.",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "16m9grb87",
+      "name": "Regulation 15 for Finance in USA",
+      "description": "",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "un9919t2g",
+      "name": "Regulation 16 for Finance in USA",
+      "description": "6. Volcker Rule",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "8s4dgyqvu",
+      "name": "Regulation 17 for Finance in USA",
+      "description": "   Description: Part of the Dodd-Frank Act, the Volcker Rule prohibits banks from engaging in proprietary trading and restricts their investments in certain types of hedge funds and private equity funds to reduce excessive risk-taking and conflicts of interest.",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "m92sgas49",
+      "name": "Regulation 18 for Finance in USA",
+      "description": "",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "c5n3penk5",
+      "name": "Regulation 19 for Finance in USA",
+      "description": "7. Commodity Exchange Act",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "v28dyvxg5",
+      "name": "Regulation 20 for Finance in USA",
+      "description": "   Description: This regulation governs the trading of commodities and derivatives in the United States, providing oversight of commodity futures markets and ensuring fair competition and the protection of market participants.",
+      "location": "USA",
+      "industry": "Finance"
+    }
+  ],
+  "directives": [
+    {
+      "id": "bndlsa467",
+      "name": "Directive 1 for Finance in USA",
+      "description": "1. Financial Reporting Standard Directive: Ensures financial institutions in the USA comply with set reporting standards and guidelines to promote transparency and accuracy in financial statements.",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "sfrp4j840",
+      "name": "Directive 2 for Finance in USA",
+      "description": "  ",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "xjyweyv91",
+      "name": "Directive 3 for Finance in USA",
+      "description": "2. Anti-Money Laundering Directive: Requires financial institutions to implement robust processes and controls to prevent money laundering activities and comply with regulatory requirements.",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "zd9tcpnc6",
+      "name": "Directive 4 for Finance in USA",
+      "description": "   ",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "1mw4b3qaq",
+      "name": "Directive 5 for Finance in USA",
+      "description": "3. Market Conduct Directive: Provides guidelines for financial institutions to follow ethical practices and ensure fair treatment of customers in all financial transactions.",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "usmcqi3ow",
+      "name": "Directive 6 for Finance in USA",
+      "description": "   ",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "msru1cuca",
+      "name": "Directive 7 for Finance in USA",
+      "description": "4. Capital Adequacy Directive: Establishes minimum capital requirements for financial institutions to maintain a sound financial position and mitigate risks.",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "83r3iin6s",
+      "name": "Directive 8 for Finance in USA",
+      "description": "   ",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "0y6evr3wm",
+      "name": "Directive 9 for Finance in USA",
+      "description": "5. Consumer Protection Directive: Safeguards consumers by setting rules for fair lending practices, transparent fees, and ensuring financial products are suitable for customers' needs.",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "g6aq7yp4t",
+      "name": "Directive 10 for Finance in USA",
+      "description": "  ",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "8g0onfjd9",
+      "name": "Directive 11 for Finance in USA",
+      "description": "6. Cybersecurity Directive: Mandates financial institutions to implement robust cybersecurity measures to protect customer data and prevent cyber threats.",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "i41n9xt7a",
+      "name": "Directive 12 for Finance in USA",
+      "description": "  ",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "8bmevfgi3",
+      "name": "Directive 13 for Finance in USA",
+      "description": "7. Investment Management Directive: Regulates the management of investment funds, ensuring adherence to investment objectives, risk management practices, and fiduciary responsibilities.",
+      "location": "USA",
+      "industry": "Finance"
+    }
+  ],
+  "risks": [
+    {
+      "id": "otjehyj8n",
+      "description": "Risk Description:\nCybersecurity Breach in the Finance Industry in the USA\n\nSeverity:\nHigh\n\nLikelihood:\nModerate\n\nImpact:\nSevere\n\nDescription:\nA cybersecurity breach in the finance industry in the USA poses a high severity risk as it may result in the unauthorized access, theft, or manipulation of sensitive financial data, including personal and account information. The likelihood of such a breach occurring is moderate due to the increasing sophistication of cyber threats and the constant targeting of financial institutions by cybercriminals. The impact of a cybersecurity breach in the finance industry can be severe, leading to financial losses, reputational damage, regulatory fines, and potential legal liabilities. It can also erode customer trust and confidence in the affected financial institution, resulting in long-term negative consequences. It is essential for financial institutions to continually assess and strengthen their cybersecurity measures to mitigate this significant risk.",
+      "severity": "High",
+      "likelihood": "Likely",
+      "impact": "Critical",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "rki1572bq",
+      "description": "Risk Description: Cybersecurity Breach in the Finance Industry in the USA\n\nSeverity: High\nLikelihood: Moderate\nImpact: Severe\n\nDescription:\n\nCybersecurity breaches are a significant threat to the finance industry in the USA. With the increasing reliance on digital technologies and the vast amounts of sensitive financial data stored by banks, investment firms, and other financial institutions, the risk of a cyberattack is high.\n\nIf a cybersecurity breach were to occur, it would have severe consequences for both the affected financial institutions and their customers. The severity of this risk is high due to the potential for large-scale data theft, financial fraud, and disruption of critical financial services.\n\nWhile financial institutions invest heavily in cybersecurity measures, the likelihood of a breach remains moderate due to the evolving nature of cyber threats and the persistence of cybercriminals. The impact of a cybersecurity breach could be severe, leading to financial losses, reputational damage, regulatory scrutiny, and loss of customer trust.\n\nTherefore, it is essential for the finance industry in the USA to continue strengthening their cybersecurity defenses, implementing robust incident response plans, and staying vigilant against emerging cyber threats to mitigate the risks associated with a potential cybersecurity breach.",
+      "severity": "High",
+      "likelihood": "Likely",
+      "impact": "Critical",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "cjoct059g",
+      "description": "Risk Description: Cybersecurity Breach\nSeverity: High\nLikelihood: High\nImpact: Critical\n\nDescription: As the Finance industry in the USA increasingly relies on digital technology for various financial transactions, there is a high risk of a cybersecurity breach occurring. Hackers may target financial institutions to gain access to sensitive customer data, including personal information and financial details. This breach could result in significant financial losses for the institution, damage to its reputation, and potential legal consequences. The severity of this risk is high due to the sensitive nature of financial data involved, the likelihood is high as cyber threats are constantly evolving, and the impact is critical as it could have far-reaching consequences for both the institution and its customers.",
+      "severity": "High",
+      "likelihood": "Likely",
+      "impact": "Critical",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "upuyzbgvg",
+      "description": "Risk Description: Cybersecurity Breach in the Finance Industry in USA\n\nSeverity: High\nLikelihood: Medium\nImpact: High\n\nDescription:\nA cybersecurity breach in the finance industry in the USA poses a significant risk due to the sensitive nature of financial data and the potential impact on individuals, businesses, and the overall economy. With the increasing reliance on digital transactions and online banking services, cybercriminals may target financial institutions to steal customer information, payment data, and sensitive financial records. If successful, a cyber breach could result in substantial financial losses, reputational damage, regulatory fines, and legal liabilities for the affected institutions. Additionally, the breach may cause disruption to financial markets, leading to a loss of investor confidence and potential economic instability. Considering the severity of the potential consequences, financial institutions must prioritize cybersecurity measures to mitigate the risks and protect the financial well-being of their stakeholders.",
+      "severity": "High",
+      "likelihood": "Likely",
+      "impact": "Critical",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "c94kndqyc",
+      "description": "Risk Description: Cybersecurity Breach\n\nSeverity: High\nLikelihood: Moderate\nImpact: High\n\nDescription: The finance industry in the USA is at high risk of experiencing a cybersecurity breach due to the increasing sophistication of cybercriminals targeting financial institutions. A breach could result in the exposure of sensitive customer information, theft of funds, disruption of services, and damage to the reputation of the affected organization. The severity of such an event is high, as it can lead to financial losses, legal consequences, and loss of customer trust. While the likelihood of a cybersecurity breach is moderate, the impact on the affected organization and the broader financial industry would be significant.",
+      "severity": "High",
+      "likelihood": "Likely",
+      "impact": "Critical",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "vo0owcw2q",
+      "description": "Risk Description: Cybersecurity Breach in the Finance Industry in the USA\n\nSeverity: High\nLikelihood: Moderate\nImpact: Severe\n\nDescription:\nA cyberattack targeting financial institutions in the USA could result in unauthorized access to sensitive customer data, theft of funds, disruption of critical financial operations, and potentially a loss of public trust in the financial system.\n\nSeverity (High): The potential severity of a cybersecurity breach in the finance industry is high due to the significant amount of confidential and sensitive information stored by financial institutions, including personal and financial data of customers, as well as proprietary data related to investments and transactions. A breach could have severe consequences for the affected organizations and their clients, leading to financial losses and reputational damage.\n\nLikelihood (Moderate): The likelihood of a cybersecurity breach is moderate due to the increasing sophistication of cyber threats, the evolving tactics used by cybercriminals, and the constant efforts to exploit vulnerabilities in financial systems. While financial institutions invest heavily in cybersecurity measures, the ever-changing nature of cyber threats makes it challenging to completely eliminate the risk of a breach.\n\nImpact (Severe): The impact of a cybersecurity breach in the finance industry would be severe, as it could result in financial losses for the affected institutions, potential legal implications, regulatory penalties, and damage to their reputation. Additionally, customers could suffer financial harm, identity theft, and loss of trust in the security of the financial system, impacting the overall stability of the industry.\n\nOverall, a cybersecurity breach in the finance industry in the USA poses a high-severity, moderate-likelihood, and severe-impact risk that requires ongoing vigilance, investment in robust cybersecurity measures, and effective response strategies to mitigate potential damages.",
+      "severity": "High",
+      "likelihood": "Likely",
+      "impact": "Critical",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "gv4ae9axd",
+      "description": "Risk Description: Cybersecurity Breach in the Finance Industry in the USA\n\nSeverity: High\nLikelihood: Moderate\nImpact: Severe\n\nDescription:\nA cybersecurity breach in the finance industry in the USA poses a significant risk to financial institutions and their customers. With the increasing reliance on technology and digital platforms for financial transactions, the finance industry is a prime target for cyber attacks. A breach could result in sensitive customer data being compromised, leading to financial losses, reputational damage, and regulatory penalties.\n\nSeverity: The severity of this risk is high as a cybersecurity breach has the potential to severely disrupt the operations of financial institutions, compromise the integrity of financial data, and erode customer trust.\n\nLikelihood: The likelihood of a cybersecurity breach occurring in the finance industry is moderate due to the constant evolution of cyber threats and the sophisticated tactics used by cyber criminals to exploit vulnerabilities in systems and networks.\n\nImpact: The impact of a cybersecurity breach in the finance industry would be severe, resulting in financial losses, legal liabilities, reputational damage, and potential loss of customer trust. Additionally, regulatory authorities may impose hefty fines and sanctions on affected institutions, further exacerbating the impact of the breach.",
+      "severity": "High",
+      "likelihood": "Likely",
+      "impact": "Critical",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "p05xf46iq",
+      "description": "Risk Description: Cybersecurity Breach in the Finance Industry in USA\n\nSeverity: High\nLikelihood: Medium\nImpact: Severe\n\nDescription:\nWith the increasing reliance on technology and digital platforms in the finance industry, the risk of a cybersecurity breach is a significant concern. A cyber attack targeting financial institutions in the USA could lead to potential theft of sensitive customer information, financial data, and identity theft. This could result in severe financial losses for the institutions, damage to reputation, and loss of customer trust. Moreover, a cybersecurity breach in the finance industry could have far-reaching consequences for the overall stability of the financial system, potentially causing market disruptions and affecting investor confidence. The severity of this risk is high due to the critical nature of the industry and the potential impact on individuals, businesses, and the economy at large. While the likelihood of a cybersecurity breach is considered medium, the impact of such an event would be severe, underscoring the importance of robust cybersecurity measures and risk management practices in the finance industry.",
+      "severity": "High",
+      "likelihood": "Likely",
+      "impact": "Critical",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "q9b9qs641",
+      "description": "Risk Description: Cybersecurity Breach in Finance Industry in USA\n\nSeverity: High\nLikelihood: Medium\nImpact: Critical\n\nDescription:\nWith the increasing reliance on digital technology and online financial transactions, the finance industry in the USA is at high risk of a cybersecurity breach. Hackers may target financial institutions to access sensitive customer data, steal funds, disrupt services, or commit fraud. A successful cyber attack on a major financial institution could have critical impacts, including financial loss, reputational damage, regulatory penalties, and loss of customer trust. Given the interconnected nature of the financial sector and the sophistication of cyber threats, the likelihood of a cybersecurity breach occurring is medium. It is crucial for financial institutions to invest in robust cybersecurity measures and regularly update their systems to mitigate this risk effectively.",
+      "severity": "High",
+      "likelihood": "Likely",
+      "impact": "Critical",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "0stl9dpog",
+      "description": "Risk Description: Cybersecurity Threats in the Finance Industry in the USA\n\nSeverity: High\nLikelihood: Moderate\nImpact: High\n\nDescription:\nThe finance industry in the USA is vulnerable to cybersecurity threats such as data breaches, phishing attacks, ransomware, and insider threats. These threats have the potential to severely impact financial institutions, causing financial losses, reputation damage, and regulatory non-compliance.\n\nSeverity is considered high due to the sensitive nature of financial data and the potential for significant financial losses if a breach occurs. The likelihood is moderate as cyberattacks are becoming more sophisticated and frequent, making it increasingly challenging for financial institutions to defend against them.\n\nThe impact of a cybersecurity breach in the finance industry in the USA can be high, leading to disruption of services, loss of customer trust, regulatory penalties, and legal ramifications. It can also result in financial institutions facing operational challenges, reputational damage, and increased costs associated with cybersecurity incident response and remediation efforts.",
+      "severity": "High",
+      "likelihood": "Likely",
+      "impact": "Critical",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "tir1bhgr7",
+      "description": "Risk Description: Cybersecurity Breach in the Finance Industry in the USA\n\nSeverity: High\nLikelihood: Moderate\nImpact: Severe\n\nDescription:\nThe finance industry in the USA faces a significant risk of experiencing a cybersecurity breach, which could potentially result in unauthorized access to sensitive financial data, customer information, and intellectual property. With the increasing reliance on digital technologies and the interconnected nature of financial systems, the likelihood of a cyber attack is moderate. However, the impact of a successful breach could be severe, leading to financial losses, reputational damage, regulatory fines, and potential legal liabilities. The potential severity of this risk underscores the importance of robust cybersecurity measures and proactive risk management strategies within the finance industry.",
+      "severity": "High",
+      "likelihood": "Likely",
+      "impact": "Critical",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "lsctu3nsf",
+      "description": "Risk Description: Cybersecurity Breach in the Finance Industry in the USA\n\nSeverity: High\nLikelihood: Medium\nImpact: High\n\nDescription:\nA cybersecurity breach in the finance industry in the USA poses a high severity risk due to the sensitive nature of financial data and the potential for significant financial losses. The likelihood of a cyber attack is medium as financial institutions are frequently targeted by hackers seeking to gain access to valuable personal and financial information. The impact of a cybersecurity breach can be high, leading to financial theft, regulatory fines, reputational damage, and loss of customer trust. Financial institutions must proactively invest in robust cybersecurity measures to mitigate this risk and protect themselves and their customers from potential harm.",
+      "severity": "High",
+      "likelihood": "Likely",
+      "impact": "Critical",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "qmqivzfu3",
+      "description": "Risk Description: Application Security Breach in a Financial Institution in the USA\n\nSeverity: High\nLikelihood: Medium\nImpact: High\n\nDescription: In the finance industry in the USA, there is a significant risk of a security breach in a financial institution's application systems. This could be caused by a cyber-attack, internal data breach, or vulnerabilities in the software used. The severity of this risk is high as it can lead to financial losses, reputation damage, and potential legal implications. The likelihood is considered medium due to the increasing sophistication of cyber threats and the constant need for vigilance and up-to-date security measures. The impact of such a breach could be high, leading to financial theft, customer data exposure, regulatory fines, and loss of trust from clients and investors. It is crucial for financial institutions to invest in robust security measures, conduct regular security assessments, and stay up-to-date with the latest cybersecurity trends to mitigate this risk effectively.",
+      "severity": "High",
+      "likelihood": "Likely",
+      "impact": "Critical",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "iaj4g3e2c",
+      "description": "Risk Description: Cybersecurity Breach in the Finance Industry in the USA\n\nSeverity: High\nLikelihood: Medium\nImpact: Severe\n\nDescription:\nThe finance industry in the USA is highly reliant on digital technologies and platforms to conduct transactions, manage customer accounts, and handle sensitive financial data. A cybersecurity breach in this sector could have severe consequences for both financial institutions and their customers. \n\nSeverity: A cybersecurity breach in the finance industry could result in the exposure of sensitive financial information, such as bank account details, credit card numbers, and personal identification information. This could lead to financial fraud, identity theft, and significant reputational damage for the affected institutions.\n\nLikelihood: The likelihood of a cybersecurity breach in the finance industry is medium due to the increasing sophistication of cyber attacks, the large volume of financial transactions processed daily, and the high value of the assets that could be targeted by cybercriminals.\n\nImpact: The impact of a cybersecurity breach in the finance industry would be severe, potentially leading to financial losses for both the institutions and their customers, regulatory investigations and fines, and a loss of trust in the security and reliability of financial institutions. Additionally, the costs associated with remediation efforts, legal fees, and potential lawsuits could be significant.",
+      "severity": "High",
+      "likelihood": "Likely",
+      "impact": "Critical",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "49tzybtsl",
+      "description": "Risk Description: Cybersecurity Threat\n\nSeverity: High\nLikelihood: Medium\nImpact: Severe\n\nDescription: The finance industry in the USA is at high risk of cybersecurity threats, such as data breaches, malware attacks, and hacking incidents. These threats have a medium likelihood of occurring due to the increasing sophistication of cybercriminals and the vast amount of sensitive financial information held by financial institutions. If a cybersecurity breach occurs, the impact can be severe, resulting in financial losses, reputational damage, regulatory fines, and potential legal liabilities. It can also lead to loss of customer trust and confidence, affecting the overall stability of the financial system. It is crucial for financial institutions to continuously invest in robust cybersecurity measures and stay vigilant against evolving cyber threats.",
+      "severity": "High",
+      "likelihood": "Likely",
+      "impact": "Critical",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "tnff9grjk",
+      "description": "Risk Description: Cybersecurity Breach\n\nSeverity: High\n\nLikelihood: Moderate\n\nImpact: Severe\n\nDescription: The finance industry in the USA faces a significant risk of cybersecurity breaches due to the large amounts of sensitive financial data stored by banks, investment firms, and other financial institutions. A successful cyber attack on a financial institution could result in the compromise of customer data, financial losses, reputational damage, and regulatory fines. The severity of this risk is high due to the potential for significant financial and reputational harm. While the likelihood of a cyber attack is moderate, the impact could be severe, leading to long-term consequences for both the affected institution and its customers. It is essential for the finance industry to prioritize cybersecurity measures to mitigate this risk effectively.",
+      "severity": "High",
+      "likelihood": "Likely",
+      "impact": "Critical",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "189cphd20",
+      "description": "Risk Description: Cybersecurity Breach in the Finance Industry in the USA\n\nSeverity: High\nLikelihood: Moderate\nImpact: Severe\n\nDescription:\nA cybersecurity breach in the finance industry in the USA poses a high severity risk due to the sensitive nature of financial data and the potential for significant financial losses. The likelihood of a cyber attack occurring is moderate because of the continual advances in hacking techniques and the increasing number of cyber threats facing the industry.\n\nIf a cyber breach were to occur, the impact would be severe, leading to potential loss of confidential customer information, financial data, and the disruption of financial transactions. This could result in reputational damage, legal implications, financial penalties, and a loss of customer trust. The overall impact on the finance industry in the USA would be significant, affecting not only individual financial institutions but also the broader economic stability and confidence in the financial system.",
+      "severity": "High",
+      "likelihood": "Likely",
+      "impact": "Critical",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "ehowxh4nl",
+      "description": "Risk Description: Cybersecurity Breach in the Finance Industry in USA\n\nSeverity: High\nLikelihood: Medium\nImpact: Severe\n\nDescription: A cybersecurity breach in the finance industry in the USA poses a significant risk due to the sensitive nature of financial data and the potential repercussions of unauthorized access to this information. With the increasing sophistication of cyber attacks, the likelihood of a breach occurring is considered to be medium. If such a breach were to happen, the impact could be severe, leading to financial losses for individuals and institutions, erosion of trust in the financial system, legal consequences, and damage to the reputation of the affected organizations. The severity of this risk is high as a cybersecurity breach in the finance industry could have far-reaching consequences that impact not only the companies involved but also their customers and the broader economy. It is crucial for financial institutions to continuously assess and enhance their cybersecurity measures to mitigate this risk.",
+      "severity": "High",
+      "likelihood": "Likely",
+      "impact": "Critical",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "nxyuzkuyg",
+      "description": "Risk description: Cyber-attack targeting financial institutions in the United States\n\nSeverity: High\nLikelihood: Moderate to High\nImpact: Severe\n\nDescription: The finance industry in the USA is constantly at risk of cyber-attacks, including phishing scams, ransomware, and data breaches. These attacks can result in financial losses, reputational damage, regulatory fines, and potential theft of sensitive customer data. With the increasing sophistication of cyber criminals and the large volume of financial transactions processed daily, the likelihood of a cyber-attack targeting the finance industry is moderate to high. If successful, such an attack could have severe consequences for individual organizations, the entire industry, and the economy as a whole. It is crucial for financial institutions to continuously invest in robust cybersecurity measures to mitigate this risk and protect their assets and customers.",
+      "severity": "High",
+      "likelihood": "Likely",
+      "impact": "Critical",
+      "location": "USA",
+      "industry": "Finance"
+    },
+    {
+      "id": "n8m05t9d2",
+      "description": "Risk: Cybersecurity Breach in the Finance Industry in the USA\n\nSeverity: High\nLikelihood: Medium\nImpact: High\n\nDescription:\nA cybersecurity breach in the finance industry in the USA poses a significant risk to financial institutions, their customers, and the overall economy. With the increasing reliance on digital platforms for financial transactions and data storage, cyberattacks have become more sophisticated and prevalent.\n\nSeverity: A cybersecurity breach can result in financial data theft, identity theft, and unauthorized access to sensitive information. It can lead to financial losses for individuals and institutions, erode customer trust, and expose vulnerabilities in the financial system.\n\nLikelihood: The likelihood of a cybersecurity breach occurring in the finance industry is medium due to the constant evolution of cyber threats, vulnerabilities in systems, and the potential for human error or malicious intent.\n\nImpact: The impact of a cybersecurity breach in the finance industry can be high, resulting in financial losses, reputational damage, regulatory fines, and legal liabilities. It can also disrupt financial markets, undermine investor confidence, and lead to long-term consequences for affected individuals and businesses.\n\nOverall, the risk of a cybersecurity breach in the finance industry in the USA requires proactive measures, robust cybersecurity protocols, and continuous monitoring to mitigate vulnerabilities and protect the financial ecosystem.",
+      "severity": "High",
+      "likelihood": "Likely",
+      "impact": "Critical",
+      "location": "USA",
+      "industry": "Finance"
+    }
+  ],
+  "controls": [
+    {
+      "id": "u06jqg5z0",
+      "description": "Control Description:\n\nThis control is designed to regulate access to sensitive information by requiring users to authenticate their identity before being granted access. Unauthorized users are restricted from viewing or interacting with the data. Access controls are implemented at both the user level and the system level to ensure that only authorized individuals can retrieve or modify the information. Regular monitoring and logging of access attempts are performed to alert administrators of any suspicious activities or potential security breaches. Additionally, this control includes mechanisms for enforcing data encryption to protect the confidentiality and integrity of the information during transmission and storage. Periodic reviews and audits are conducted to verify that access controls are effectively implemented and maintained in accordance with security policies and regulations.",
+      "risk_id": "otjehyj8n"
+    },
+    {
+      "id": "gwykb48yl",
+      "description": "Control Description:\n\nThe control measures identified in this document are designed to mitigate risks and ensure the security and integrity of the system. The controls include access controls, data encryption, regular monitoring, and incident response procedures. These measures are put in place to safeguard sensitive information, prevent unauthorized access, and maintain the confidentiality, integrity, and availability of the system.",
+      "risk_id": "rki1572bq"
+    },
+    {
+      "id": "5kjbv7yau",
+      "description": "Control Description:\n\nThis control is designed to restrict access to sensitive data by requiring users to authenticate with a unique username and password before being granted access. The system will log all access attempts and any unauthorized attempts will trigger an alert to the system administrator. Access permissions will be granted based on the user's role and responsibilities within the organization. Additionally, the system will automatically log out users after a period of inactivity to prevent unauthorized access in case the device is left unattended. Regular monitoring and auditing of access logs will be conducted to ensure compliance with security policies and identify any suspicious activity.",
+      "risk_id": "cjoct059g"
+    },
+    {
+      "id": "kwp7xl4ii",
+      "description": "Control Description:\n\nThis control is designed to restrict access to sensitive data by enforcing role-based permissions. Users are granted specific permissions based on their roles and responsibilities within the organization. The control includes regular reviews of user access rights to ensure that permissions are up-to-date and aligned with job duties. Additionally, the control includes monitoring and logging of all access attempts to detect and prevent unauthorized access. Implementation of this control helps protect the confidentiality and integrity of the organization's data.",
+      "risk_id": "upuyzbgvg"
+    },
+    {
+      "id": "m1knbdkct",
+      "description": "A control description is a standardized set of symbols used in orienteering to provide competitors with important information about checkpoints. Here is a sample control description for a checkpoint:\n\nControl Number: 5\nLocation: Top of the hill\nFeature: Large boulder\nPunching Device: Electronic\nControl Description: Control point located at the top of the hill, near a large boulder. Punching device is electronic.",
+      "risk_id": "c94kndqyc"
+    },
+    {
+      "id": "96bgorlw6",
+      "description": "Control Description: The system must ensure that only authorized users are able to access sensitive data by implementing multi-factor authentication, role-based access controls, and regular access reviews. All data must be encrypted both in transit and at rest to maintain confidentiality. Log files must be generated and monitored to detect any unauthorized access attempts. Regular backups should be scheduled and stored offline to prevent data loss in case of a system failure. Physical access to the servers should be restricted to authorized personnel only. Regular security assessments and penetration testing must be conducted to identify and address any potential vulnerabilities.",
+      "risk_id": "vo0owcw2q"
+    },
+    {
+      "id": "6wjiwf79i",
+      "description": "Control Description:\nThis control is designed to restrict access to sensitive information stored in the system by limiting user permissions and enforcing strict authentication measures. It includes regular monitoring of user activities, logging of all system events, and implementing encryption protocols to safeguard data in transit and at rest. Additionally, this control involves conducting periodic security assessments, vulnerability scans, and penetration testing to proactively identify and address potential risks. It aims to ensure data integrity, confidentiality, and availability while adhering to regulatory compliance requirements.",
+      "risk_id": "gv4ae9axd"
+    },
+    {
+      "id": "9urk8y0rz",
+      "description": "A control description is a standardized set of symbols used in orienteering to describe the location and features of control points. It helps orienteers navigate through the course efficiently by providing specific information about each control point. It typically includes details such as the control number, control feature, control code, and control location.",
+      "risk_id": "p05xf46iq"
+    },
+    {
+      "id": "1u78b4heg",
+      "description": "Control Description:\n\nThe control measures implemented in this system include user authentication, encryption of data at rest and in transit, role-based access control, regular security patches and updates, logging and monitoring of system activities, intrusion detection and prevention systems, and backup and disaster recovery procedures. These controls are designed to safeguard the confidentiality, integrity, and availability of the system and its data.",
+      "risk_id": "q9b9qs641"
+    },
+    {
+      "id": "vkbg1pgxl",
+      "description": "Control Description:\n\nThis control is designed to prevent unauthorized access to the sensitive data stored in the system. It requires users to authenticate themselves using a username and password before they can access the system. Additionally, the control includes regular monitoring of user activity to detect any suspicious behavior or unauthorized access attempts. Access controls are in place to restrict users' permissions based on their roles and responsibilities within the organization. Audit logs are generated to track all user activity, providing a record of who accessed what data and when. Regular security assessments are conducted to ensure that the control measures are effective and up to date with best practices.",
+      "risk_id": "0stl9dpog"
+    },
+    {
+      "id": "p3fy6a1fl",
+      "description": "Control Description: This control is designed to regulate the flow of air in the heating, ventilation, and air conditioning (HVAC) system. It monitors the temperature in the room and adjusts the airflow to maintain a comfortable temperature level. The control panel allows users to set their desired temperature and fan speed, and the system automatically adjusts to meet those preferences. Additionally, the control includes safety features such as temperature limits to prevent overheating and automatic shut-off in case of malfunction. Overall, this control ensures efficient and effective operation of the HVAC system while providing a comfortable indoor environment for occupants.",
+      "risk_id": "tir1bhgr7"
+    },
+    {
+      "id": "wmmf1tolv",
+      "description": "Control Description:\nThis control is designed to restrict access to sensitive data by ensuring that only authorized individuals are able to view or modify the information. It includes measures such as user authentication, role-based access control, and encryption to protect the data from unauthorized access or disclosure. Regular monitoring and auditing of access logs are also conducted to detect any suspicious activities and ensure compliance with security policies.",
+      "risk_id": "lsctu3nsf"
+    },
+    {
+      "id": "hutcs6eni",
+      "description": "Control Description:\nThis control involves monitoring user access and permissions within the system to ensure that only authorized individuals can view or modify sensitive data. It includes implementing role-based access controls, restricting access to data based on user roles and responsibilities, and regularly reviewing access permissions to identify and revoke any unnecessary or outdated access rights. Additionally, this control includes logging all user activities, including login attempts, changes to access permissions, and data modifications, to track and investigate any unauthorized or suspicious activity. By enforcing these measures, the organization can mitigate the risk of unauthorized access to sensitive information and maintain data security.",
+      "risk_id": "qmqivzfu3"
+    },
+    {
+      "id": "c0z3nf3a0",
+      "description": "Control Description:\nThis control is designed to monitor and manage access to sensitive data stored in the system. It includes policies and procedures for controlling user access, establishing user permissions, and monitoring user activities to prevent unauthorized access or data breaches. The control implements a role-based access control system to ensure that users are granted appropriate access rights based on their roles and responsibilities within the organization. Regular access reviews and audits are conducted to verify that access rights are up to date and in compliance with security policies. Any unauthorized activities or access attempts are promptly identified, investigated, and mitigated to prevent data loss or compromise. Additionally, the control includes mechanisms for logging and monitoring user activities, detecting anomalies or suspicious behavior, and triggering alerts for immediate response and resolution. The control also incorporates encryption protocols and secure authentication methods to protect data both at rest and in transit.",
+      "risk_id": "iaj4g3e2c"
+    },
+    {
+      "id": "bl11ixnc3",
+      "description": "Control description: This control involves implementing access restrictions to ensure that only authorized personnel can access sensitive information or systems. Access control mechanisms such as role-based access control, user authentication, and encryption should be in place to prevent unauthorized access and ensure the confidentiality and integrity of data. Regular monitoring and auditing of access logs are also essential to detect and respond to any unauthorized access attempts.",
+      "risk_id": "49tzybtsl"
+    },
+    {
+      "id": "hel7xctjb",
+      "description": "Control Description:\nThis control is designed to ensure that access to sensitive company data is restricted to authorized individuals only. It involves implementing role-based access control mechanisms, conducting regular access reviews, enforcing strong passwords, and limiting physical access to data storage areas. Additionally, the control includes monitoring and logging all access attempts, promptly revoking access for terminated employees, and providing security awareness training to employees on data protection best practices.",
+      "risk_id": "tnff9grjk"
+    },
+    {
+      "id": "s6bsh1jw9",
+      "description": "Control Description:\n\nThis control ensures that only authorized personnel have access to sensitive data. Access to the data is restricted based on individual user roles and responsibilities. User authentication mechanisms, such as passwords and multi-factor authentication, are in place to verify the identity of users before granting access. Access logs are maintained to track who accesses the data and when. Any unauthorized access attempts are detected and reported promptly to the appropriate personnel for investigation. Regular reviews of user access rights are conducted to ensure that access rights are appropriate for each user's role within the organization.",
+      "risk_id": "189cphd20"
+    },
+    {
+      "id": "5m1oopezc",
+      "description": "Control Description: This document outlines the procedures and measures in place to ensure that access to sensitive data is restricted only to authorized personnel. It includes guidelines for user authentication, access control, data encryption, monitoring of access logs, and regular review of user access rights. The control description is designed to protect the confidentiality and integrity of data and prevent unauthorized access or data breaches.",
+      "risk_id": "ehowxh4nl"
+    },
+    {
+      "id": "x4oymf8d5",
+      "description": "Control Description:\n\nThis control is designed to regulate the temperature setting on a heating system. It allows the user to adjust the desired temperature using a digital interface with up and down buttons. The control monitors the current temperature in the room and activates the heating system when the room temperature falls below the set level. It also has built-in safety features to prevent overheating and can be programmed to schedule temperature changes throughout the day for optimal comfort and energy efficiency.",
+      "risk_id": "nxyuzkuyg"
+    },
+    {
+      "id": "ebyxjjwci",
+      "description": "Control Description:\n\nThis control ensures that only authorized users are able to access sensitive customer information stored in the database. Access to the database is restricted based on user roles, with different levels of access granted according to job responsibilities. Authentication mechanisms, such as strong passwords and multi-factor authentication, are implemented to verify the identity of users before they can access the database. Access logs are regularly monitored to detect any unauthorized access attempts, and access rights are reviewed and updated periodically to ensure that only approved users have access to the data. Regular security training is provided to all users to raise awareness of best practices for safeguarding sensitive information.",
+      "risk_id": "n8m05t9d2"
+    }
+  ],
+  "testProcedures": [
+    {
+      "id": "bj0pru0mj",
+      "description": "Test Procedure: Validating User Login Functionality\n\n1. Open the web application in a browser and navigate to the login page.\n2. Enter a valid username and password.\n3. Click on the \"Login\" button.\n4. Verify that the user is redirected to the homepage after successful login.\n5. Log out of the user account.\n6. Attempt to log in again using an invalid username and password.\n7. Verify that an error message is displayed indicating invalid credentials.\n8. Try logging in without entering any username or password.\n9. Verify that appropriate error messages are displayed for missing credentials.\n10. Test the \"Forgot Password\" functionality by clicking on the link.\n11. Enter a valid email address and submit the form.\n12. Check the email inbox for a password reset link.\n13. Click on the password reset link and follow the instructions to reset the password.\n14. Log in with the newly reset password to ensure successful password recovery.\n15. Test the \"Remember Me\" functionality by checking the box before logging in.\n16. Log out and close the browser.\n17. Reopen the browser and navigate back to the web application.\n18. Verify that you are automatically logged in without having to enter credentials again if \"Remember Me\" was checked.\n\nNote: This test procedure is to ensure the user login functionality works as expected under various scenarios.",
+      "control_id": "u06jqg5z0",
+      "steps": [
+        "Step 1",
+        "Step 2",
+        "Step 3"
+      ]
+    },
+    {
+      "id": "8tm6vkw7d",
+      "description": "Sure! Here is a test procedure description with steps for testing a login functionality on a website:\n\nTest Procedure: Login Functionality Test\n\nObjective:\nTo verify that users can successfully log in to the website using their credentials.\n\nPre-requisites:\n- Access to the website\n- Valid user credentials (username and password)\n\nSteps:\n1. Launch the web browser and navigate to the website login page.\n2. Enter a valid username in the username field.\n3. Enter a valid password in the password field.\n4. Click on the \"Login\" button.\n5. Verify that the user is redirected to the dashboard or home page upon successful login.\n6. Verify that an error message is displayed if invalid credentials are entered.\n7. Test the \"Forgot Password\" functionality by clicking on the link and following the password recovery process.\n8. Verify that the \"Remember Me\" feature is working correctly by checking if the user remains logged in after closing and reopening the browser.\n9. Log out of the user account by clicking on the \"Logout\" button.\n10. Verify that the user is successfully logged out and redirected to the login page.\n\nResults:\n- If all steps are completed successfully without any issues, mark the test as passed.\n- If any step fails, document the issue and provide detailed information for developers to investigate and fix.\n\nNote: Ensure to test the login functionality with different valid and invalid input combinations to cover various scenarios.",
+      "control_id": "gwykb48yl",
+      "steps": [
+        "Step 1",
+        "Step 2",
+        "Step 3"
+      ]
+    },
+    {
+      "id": "je9bgzjq6",
+      "description": "Test Procedure Description: Verifying User Login Functionality\n\n1. Open the application/web page where the user login functionality is available.\n2. Navigate to the login section of the application.\n3. Enter a valid username in the designated username field.\n4. Enter a valid password in the designated password field.\n5. Click on the 'Login' button.\n6. Verify that the system redirects you to the user dashboard or homepage upon successful login.\n7. Verify that you can access all the relevant features and functionalities available to a logged-in user.\n8. Log out of the application by clicking on the 'Logout' button.\n9. Verify that the system logs you out and redirects you to the login page.\n10. Attempt to login with an invalid username or password.\n11. Verify that the system displays an appropriate error message indicating that the login credentials are incorrect.\n12. Repeat the login process using valid credentials to ensure consistent behavior.\n\nPlease note: This test procedure assumes that test data with valid and invalid credentials is available for testing the user login functionality.",
+      "control_id": "5kjbv7yau",
+      "steps": [
+        "Step 1",
+        "Step 2",
+        "Step 3"
+      ]
+    },
+    {
+      "id": "uqjtkrmbf",
+      "description": "Test Procedure: Checking the Functionality of Login Feature\n\nStep 1: Open the application and navigate to the login page.\nStep 2: Enter a valid username and password in the respective fields.\nStep 3: Click on the 'Login' button.\nStep 4: Verify that you are successfully logged in and redirected to the home page.\nStep 5: Log out of the application.\nStep 6: Repeat steps 1-3 with invalid credentials and verify that appropriate error messages are displayed.\nStep 7: Test the 'Forgot Password' functionality by clicking on the link and following the steps to reset the password.\nStep 8: Log in again with the new password to ensure the password reset process is successful.\nStep 9: Test the 'Remember Me' feature by logging in with the option selected and verifying that the session remains active upon closing and reopening the application.\nStep 10: Test the 'Logout' functionality and verify that you are successfully logged out of the application.\nStep 11: Verify that all links and buttons on the login page are working as expected.\nStep 12: Record the test results and any issues encountered during the testing process.",
+      "control_id": "kwp7xl4ii",
+      "steps": [
+        "Step 1",
+        "Step 2",
+        "Step 3"
+      ]
+    },
+    {
+      "id": "usg3lncjq",
+      "description": "Test Procedure Description: User Login Functionality\n\nSteps:\n1. Launch the application and reach the login screen.\n2. Enter a valid username and password in the respective fields.\n3. Click on the \"Login\" button.\n4. Verify that the application navigates to the user dashboard/homepage.\n5. Log out of the user account.\n6. Attempt to login with an invalid username and password combination.\n7. Verify that appropriate error messages are displayed.\n8. Reset the password for the user account.\n9. Attempt to login with the new password.\n10. Verify successful login and navigation to the user dashboard/homepage.\n11. Log out of the user account and close the application.",
+      "control_id": "m1knbdkct",
+      "steps": [
+        "Step 1",
+        "Step 2",
+        "Step 3"
+      ]
+    },
+    {
+      "id": "zn6dkjl32",
+      "description": "Certainly! Here is a test procedure description with steps for testing a login functionality on a website:\n\nTest Procedure: Login Functionality Testing\n\nObjective:\nTo verify that the login functionality on the website works as expected and allows users to successfully log in to their accounts.\n\nPreconditions:\n- Access to the website\n- Valid login credentials (username and password)\n\nTest Steps:\n1. Open a web browser and navigate to the login page of the website.\n2. Verify that the login page contains the necessary elements such as username input field, password input field, and a login button.\n3. Enter a valid username in the username input field.\n4. Enter an invalid password in the password input field and click on the login button.\n5. Verify that an appropriate error message is displayed indicating that the password is incorrect.\n6. Enter a valid password in the password input field and click on the login button.\n7. Verify that the user is successfully logged in and redirected to the dashboard or home page.\n8. Log out of the account by clicking on the logout button or link.\n9. Verify that the user is redirected to the login page after logging out.\n10. Repeat steps 3 to 6 with an invalid username and valid password combination.\n11. Verify that an appropriate error message is displayed indicating that the username is incorrect.\n12. Check for any error messages, warnings, or unexpected behavior during the login process.\n13. Test the \"Remember Me\" functionality by selecting the option and logging in again to verify if the login is remembered.\n14. Test the \"Forgot Password\" functionality by clicking on the link and following the steps to reset the password.\n15. Verify that the password reset process is successful and the user can log in using the new password.\n\nPost-conditions:\n- Verify that all test cases have passed without any critical issues.\n- Document any defects found during the testing process.\n- Provide a test report summarizing the test results and any recommendations for improvements.\n\nNote: Ensure to perform both positive and negative test cases to thoroughly test the login functionality.",
+      "control_id": "96bgorlw6",
+      "steps": [
+        "Step 1",
+        "Step 2",
+        "Step 3"
+      ]
+    },
+    {
+      "id": "bofe4e278",
+      "description": "Test Procedure Description: Testing User Registration Functionality\n\n1. Purpose: The purpose of this test procedure is to verify the functionality of the user registration process on the application.\n\n2. Pre-requisites:\n   - Access to the application\n   - Test user credentials\n\n3. Test Steps:\n   Step 1: Navigate to the registration page\n      Action: Open the application on a web browser or mobile device\n               Click on the \"Sign Up\" or \"Register\" button to proceed to the registration page\n      Expected Result: The registration page should load successfully\n\n   Step 2: Enter user details\n      Action: Fill in the required fields such as username, email address, password, etc.\n      Expected Result: The details should be entered without errors\n\n   Step 3: Submit registration form\n      Action: Click on the \"Register\" or \"Sign Up\" button after entering the details\n      Expected Result: The form should be submitted successfully\n\n   Step 4: Verify registration confirmation\n      Action: Check for a confirmation message or email indicating successful registration\n      Expected Result: Confirmation message/email should be received\n\n   Step 5: Log in with registered credentials\n      Action: Use the registered username and password to log in to the application\n      Expected Result: Successful login without any issues\n\n   Step 6: Verify user profile\n      Action: Check if the user profile has been created with the registered details\n      Expected Result: The user profile should display the information provided during registration\n\n4. Pass/Fail Criteria:\n   - Pass: All steps are completed successfully without any errors\n   - Fail: Any step fails to execute as expected or encounters an issue\n\n5. Reporting:\n   - Record any issues encountered during the test procedure\n   - Provide a detailed summary of the test results\n\n6. Cleanup:\n   - Delete the test user account if necessary\n   - Clear any test data entered during the registration process\n\n7. Conclusion: This test procedure helps ensure that the user registration functionality of the application works as intended and provides a smooth user experience.",
+      "control_id": "6wjiwf79i",
+      "steps": [
+        "Step 1",
+        "Step 2",
+        "Step 3"
+      ]
+    },
+    {
+      "id": "g3x1cjss8",
+      "description": "Test Procedure Description: Running a Software Installation Test\n\n1. Pre-requisites:\n   - Ensure that the test environment meets the system requirements specified by the software.\n   - Obtain the correct installation package for the software to be tested.\n   - Create a backup of any existing data on the system to avoid data loss during installation.\n\n2. Setup:\n   - Start the test environment and log in with appropriate credentials.\n   - Disable any firewalls or antivirus software that may interfere with the installation process.\n   \n3. Installation Process:\n   - Run the installation package and follow the on-screen prompts to begin the installation.\n   - Select the installation directory and any additional components or features to be installed.\n   - Confirm the installation settings and proceed with the installation process.\n   - Monitor the installation progress and check for any error messages or warnings during installation.\n   - Once the installation is completed, verify that the software has been successfully installed and is ready for use.\n\n4. Post-Installation Validation:\n   - Open the software application and perform a basic functionality test to ensure that it is working as expected.\n   - Check for any error messages, crashes, or performance issues while using the software.\n   \n5. Cleanup:\n   - Remove any temporary files or installation logs generated during the installation process.\n   - Re-enable any firewalls or antivirus software that was disabled for the installation.\n   - Ensure that the system is stable and there are no issues resulting from the software installation.\n\n6. Documentation:\n   - Record the test results, including any issues encountered during the installation and post-installation validation process.\n   - Provide feedback on the installation process and software functionality for reporting purposes.\n\n7. Conclusion:\n   - Confirm that the software installation test has been completed successfully and provide recommendations for further actions if necessary.\n   - Close the test environment and ensure that all necessary documentation is stored for future reference.",
+      "control_id": "9urk8y0rz",
+      "steps": [
+        "Step 1",
+        "Step 2",
+        "Step 3"
+      ]
+    },
+    {
+      "id": "j1knqilkk",
+      "description": "Test Procedure: Logging into the Application\n\nSteps:\n1. Open the web browser and navigate to the login page of the application.\n2. Enter the valid username in the designated field.\n3. Enter the valid password in the password field.\n4. Click on the \"Login\" button.\n5. Verify that the application redirects you to the user dashboard or landing page.\n6. Check that the user profile information (such as name, email, etc.) is displayed correctly.\n7. Log out of the application by clicking on the \"Logout\" button.\n8. Verify that the application redirects you to the login page after logging out.\n9. Attempt to log in with invalid credentials and verify that appropriate error messages are displayed.\n10. Test the \"Remember Me\" feature by selecting the checkbox and logging in again to ensure that the session remains active even after closing the browser.\n\nNote: Make sure to use both valid and invalid test data to cover all scenarios during the login process.",
+      "control_id": "1u78b4heg",
+      "steps": [
+        "Step 1",
+        "Step 2",
+        "Step 3"
+      ]
+    },
+    {
+      "id": "02a7ut583",
+      "description": "Test Procedure: Checking Login Functionality\n\n1. Launch the application and ensure you are on the login screen.\n2. Verify that all necessary elements are present on the login screen (e.g., username input field, password input field, login button).\n3. Enter a valid username in the username field.\n4. Enter a valid password in the password field.\n5. Click on the login button.\n6. Verify that the application redirects you to the home screen.\n7. Log out of the application.\n8. Repeat steps 1-5, but this time enter an invalid username.\n9. Verify that an appropriate error message is displayed.\n10. Log out of the application.\n11. Repeat steps 1-5, but this time enter an invalid password.\n12. Verify that an appropriate error message is displayed.\n13. Log out of the application.\n\nNote: It is important to perform both positive and negative test cases to ensure the login functionality works correctly under different scenarios.",
+      "control_id": "vkbg1pgxl",
+      "steps": [
+        "Step 1",
+        "Step 2",
+        "Step 3"
+      ]
+    },
+    {
+      "id": "fepa304ca",
+      "description": "Test Procedure Description: Testing Login Functionality\n\n1. Purpose: The purpose of this test is to verify that the login functionality of the system works as expected and allows users to access the application securely.\n\n2. Pre-requisites:\n   - Valid user credentials (username and password)\n   - Access to the application login page\n   - Internet connection\n\n3. Test Steps:\n   a. Launch the web browser and navigate to the login page of the application.\n   b. Enter a valid username and an incorrect password, then click on the 'Login' button.\n   c. Verify that an error message is displayed indicating that the password is incorrect.\n   d. Enter a valid username and a correct password, then click on the 'Login' button.\n   e. Verify that the system successfully authenticates the user and redirects them to the dashboard or home page.\n   f. Log out of the application by clicking on the 'Logout' button.\n   g. Verify that the user is successfully logged out and redirected back to the login page.\n   h. Attempt to access a secure page or feature without logging in by directly entering the URL.\n   i. Verify that the system redirects the user back to the login page and displays a message prompting them to login.\n   j. Test the 'Forgot Password' feature by clicking on the 'Forgot Password' link.\n   k. Enter a valid email address associated with the user account and submit the form.\n   l. Check the email inbox for a password reset link and follow the instructions to reset the password.\n   m. Login to the application using the new password to verify that the password reset functionality works correctly.\n\n4. Expected Results:\n   - The system should display an error message for incorrect login credentials.\n   - Successful login should redirect the user to the dashboard or home page.\n   - Logging out should clear the session and redirect the user back to the login page.\n   - Accessing secure features should prompt the user to login.\n   - The 'Forgot Password' feature should allow users to reset their password securely.\n\n5. Post-conditions:\n   - User should be able to login and access the application securely.\n   - Password reset functionality should be working correctly.\n\n6. Notes:\n   - Ensure to test the login functionality with different types of valid and invalid input to cover edge cases.\n   - Test the performance of the login process under different network conditions to ensure stability.",
+      "control_id": "p3fy6a1fl",
+      "steps": [
+        "Step 1",
+        "Step 2",
+        "Step 3"
+      ]
+    },
+    {
+      "id": "ebly92qb0",
+      "description": "Test Procedure: User Registration Form Validation\n\n1. Launch the application and navigate to the user registration form page.\n2. Verify that all the mandatory fields (such as username, email address, password, etc.) are present on the registration form.\n3. Enter a valid username that meets the specified criteria (e.g., minimum length, allowed characters).\n4. Enter a valid email address following the standard email format (e.g., abc@example.com).\n5. Enter a password that meets the minimum requirements (e.g., minimum length, combination of uppercase/lowercase letters, numbers, and special characters).\n6. Confirm the password by re-entering it in the designated field.\n7. Submit the registration form by clicking the \"Sign Up\" or equivalent button.\n8. Verify that the form is successfully submitted and the user is redirected to the login page.\n9. Repeat steps 3 to 7 with different test data to cover various validation scenarios:\n   - Invalid username (e.g., special characters, exceeding maximum length).\n   - Invalid email address format (e.g., missing \"@\" symbol, incorrect domain).\n   - Password that does not meet the minimum requirements.\n   - Mismatch between the entered password and the confirmed password.\n10. Ensure that appropriate error messages are displayed for each validation failure scenario.\n11. Verify that the registration form does not allow submission until all validation criteria are met.\n12. Document any defects encountered during the testing process and report them to the development team for resolution.",
+      "control_id": "wmmf1tolv",
+      "steps": [
+        "Step 1",
+        "Step 2",
+        "Step 3"
+      ]
+    },
+    {
+      "id": "l5ni95cnr",
+      "description": "Test Procedure Description: Verify the functionality of the login page on the company's website.\n\nSteps:\n1. Open a web browser and navigate to the company's website login page.\n2. Verify that the login page is displayed correctly with all relevant fields such as username, password, and login button visible.\n3. Enter a valid username and password combination in the respective fields.\n4. Click on the login button.\n5. Verify that the system logs you in successfully and displays the user dashboard or homepage.\n6. Log out of the system.\n7. Attempt to log in with invalid credentials (e.g., incorrect username or password).\n8. Verify that the system displays an appropriate error message if invalid credentials are entered.\n9. Try logging in with a valid username but an incorrect password.\n10. Verify that the system displays an appropriate error message for incorrect password entry.\n11. Ensure that all page elements are functioning correctly, including links, buttons, and input fields.\n12. Record any issues encountered during the testing process.\n13. Provide a summary of the test results, noting any failures or discrepancies.\n14. If applicable, retest any failed steps after developers have addressed the issues.\n15. Document the test procedure and results for future reference.",
+      "control_id": "hutcs6eni",
+      "steps": [
+        "Step 1",
+        "Step 2",
+        "Step 3"
+      ]
+    },
+    {
+      "id": "4kmvjjmo6",
+      "description": "Sure, here is an example of a test procedure description with steps:\n\nTitle: Website Login Functionality Testing\n\nDescription: This test procedure is designed to verify the login functionality of a website.\n\nSteps:\n1. Open the web browser and navigate to the login page of the website.\n2. Enter a valid username and password in the appropriate fields.\n3. Click on the \"Login\" button.\n4. Verify that the user is successfully logged in and directed to the dashboard or home page.\n5. Log out of the website by clicking on the \"Logout\" button.\n6. Verify that the user is logged out and directed back to the login page.\n7. Enter an invalid username or password in the login fields.\n8. Click on the \"Login\" button.\n9. Verify that the website displays an appropriate error message indicating that the login credentials are incorrect.\n10. Test the \"Forgot Password\" functionality by clicking on the link and following the steps to reset the password.\n11. Verify that the password reset process is successful and the user can login with the new password.\n12. Record any issues encountered during the testing process and provide detailed feedback.\n\nThis test procedure can be executed to ensure that the login functionality of the website is working as expected and to identify any potential issues or defects that may need to be addressed before the website is launched or updated.",
+      "control_id": "c0z3nf3a0",
+      "steps": [
+        "Step 1",
+        "Step 2",
+        "Step 3"
+      ]
+    },
+    {
+      "id": "apyar47ed",
+      "description": "Test Procedure: User Login Functionality Test\n\n1. Open the web application in a browser.\n2. Navigate to the login page.\n3. Enter a valid username in the username field.\n4. Enter a valid password in the password field.\n5. Click on the \"Login\" button.\n6. Verify that the user is successfully logged in and redirected to the home page.\n7. Log out from the application.\n8. Verify that the user is successfully logged out and redirected to the login page.\n\nNote: Ensure to test with both valid and invalid credentials to cover all scenarios. Record any bugs encountered during the testing process for further investigation.",
+      "control_id": "bl11ixnc3",
+      "steps": [
+        "Step 1",
+        "Step 2",
+        "Step 3"
+      ]
+    },
+    {
+      "id": "dlq4589r9",
+      "description": "Test Procedure Description: Testing Automated Car Parking System\n\n1. Objective: The objective of this test procedure is to verify the functionality and reliability of the Automated Car Parking System.\n\n2. Pre-requisites:\n   a. Ensure that the Automated Car Parking System is installed properly and connected to the necessary power source.\n   b. Make sure that there are test vehicles available for simulation.\n\n3. Steps:\n   a. Turn on the power of the Automated Car Parking System.\n   b. Verify if the system boots up properly and displays the main user interface.\n   c. Select a test vehicle and input the necessary details such as the size of the vehicle.\n   d. Choose the parking slot through the interface or let the system automatically assign one.\n   e. Drive the test vehicle towards the designated parking slot.\n   f. Observe if the system accurately guides the vehicle to the parking spot using sensors and cameras.\n   g. Verify if the vehicle is parked securely in the designated slot.\n   h. Test the system’s ability to retrieve the vehicle upon request.\n   i. Monitor the system’s performance in quickly and safely retrieving the vehicle from the parking slot.\n   j. Check for any errors or malfunctions during the testing process.\n   k. Record any observations, issues, or improvements needed for the Automated Car Parking System.\n\n4. Validation:\n   a. Conduct multiple test runs with different vehicles to validate the system’s accuracy and consistency.\n   b. Ensure that the system can handle peak loads during busy periods.\n   c. Verify that the user interface is intuitive and user-friendly.\n   d. Confirm that all safety measures are in place and functioning correctly.\n\n5. Conclusion:\n   Upon completion of the test procedure, compile a detailed report summarizing the test results, any issues encountered, and recommendations for improvements. Share the report with the relevant stakeholders for further action.",
+      "control_id": "hel7xctjb",
+      "steps": [
+        "Step 1",
+        "Step 2",
+        "Step 3"
+      ]
+    },
+    {
+      "id": "cpsuu97ol",
+      "description": "Test Procedure: User Login Functionality\n\n1. Open the web browser and navigate to the login page of the application.\n2. Enter a valid username in the designated field.\n3. Enter a valid password in the password field.\n4. Click on the \"Login\" button.\n5. Verify that the system redirects the user to the home page of the application.\n6. Log out of the application.\n7. Attempt to log in with an invalid username and password combination.\n8. Verify that the system displays an error message indicating the login credentials are incorrect.\n9. Log out of the application again.\n10. Attempt to log in without entering any username or password.\n11. Verify that the system displays appropriate error messages prompting the user to enter both username and password.\n12. Close the web browser to end the test procedure.",
+      "control_id": "s6bsh1jw9",
+      "steps": [
+        "Step 1",
+        "Step 2",
+        "Step 3"
+      ]
+    },
+    {
+      "id": "2fdy733kv",
+      "description": "Test Procedure: User Login Functionality\n\nStep 1: Open the webpage for the application login screen.\nStep 2: Enter the correct username in the username field.\nStep 3: Enter the correct password in the password field.\nStep 4: Click on the \"Login\" button.\nStep 5: Verify that you are redirected to the dashboard or home screen of the application.\nStep 6: Log out of the application.\nStep 7: Repeat steps 1-4 with incorrect username or password.\nStep 8: Verify that the system displays an error message for invalid login credentials.\nStep 9: Log in again with the correct credentials to ensure the error message does not persist.\nStep 10: Complete the test case by logging out of the application.\n\nNote: This is a basic test procedure for the user login functionality. Additional test scenarios can be added based on the specific requirements of the application.",
+      "control_id": "5m1oopezc",
+      "steps": [
+        "Step 1",
+        "Step 2",
+        "Step 3"
+      ]
+    },
+    {
+      "id": "5vxvp8dy4",
+      "description": "Test Procedure: Logging in to Company's Internal System\n\n1. Launch the web browser and go to the company's internal system login page.\n2. Enter the username provided for testing purposes in the \"Username\" field.\n3. Enter the password provided for testing purposes in the \"Password\" field.\n4. Click on the \"Login\" button.\n5. Verify that the system successfully logs you in and redirects you to the dashboard.\n6. Check that all the dashboard elements and functions are loading correctly.\n7. Navigate to different sections within the system (e.g., profile, documents, settings) to ensure smooth navigation.\n8. Perform a logout by clicking on the \"Logout\" button.\n9. Confirm that you are logged out and redirected back to the login page.\n10. Attempt to log in again using incorrect login credentials to verify error handling.\n11. Take screenshots at each step for documentation and reporting purposes.\n12. Record any errors or issues encountered during the login process.\n\nNote: This test procedure should be conducted in a controlled testing environment to ensure accurate results.",
+      "control_id": "x4oymf8d5",
+      "steps": [
+        "Step 1",
+        "Step 2",
+        "Step 3"
+      ]
+    },
+    {
+      "id": "gdyp3ym6b",
+      "description": "Sure! Here is an example of a test procedure description with steps for testing a login functionality on a web application:\n\nTest Procedure: Login Functionality Testing\n\nObjective: To verify the functionality and security of the login feature on the web application.\n\nPre-requisites: \n1. Access to the web application URL.\n2. Valid login credentials (username and password).\n\nSteps:\n1. Launch the web browser and navigate to the URL of the web application.\n2. On the login page, enter the valid username and password.\n3. Click on the \"Login\" button.\n4. Verify that the user is redirected to the correct landing page/dashboard upon successful login.\n5. Verify that appropriate error messages are displayed for invalid credentials.\n6. Test the \"Forgot Password\" functionality by clicking on the link and following the password recovery process.\n7. Test the \"Remember Me\" feature by logging in with the option selected and verifying that the session remains active upon subsequent visits.\n8. Test the security features by checking for password encryption and session management.\n9. Test for potential vulnerabilities such as SQL injection and cross-site scripting attacks.\n10. Test the session timeout functionality by leaving the application idle for a certain period and verifying that the user is logged out automatically.\n11. Verify that the \"Logout\" functionality logs out the user and redirects them to the login page.\n12. Record any issues or defects encountered during the testing process.\n\nCompletion Criteria:\n- The login feature functions correctly with valid credentials.\n- The appropriate error messages are displayed for invalid credentials.\n- The security measures are effective in protecting user information.\n- The additional features (Forgot Password, Remember Me, Logout) work as expected.\n- No critical vulnerabilities are identified during testing.\n\nNote: Make sure to document the test results, including any defects found, for further analysis and resolution.",
+      "control_id": "ebyxjjwci",
+      "steps": [
+        "Step 1",
+        "Step 2",
+        "Step 3"
+      ]
+    }
+  ],
+  "applicationRisks": [
+    {
+      "id": "cplgjs1wr",
+      "description": "Risk Description:\nApplication: App1\n\nSeverity: High\nLikelihood: Medium\nImpact: High\n\nDescription:\nThere is a high severity risk associated with App1 due to the possibility of a security breach leading to sensitive user data being compromised. The likelihood of this risk occurring is medium, as the application may be vulnerable to cyber attacks if proper security measures are not in place. The impact of such a breach would be high, resulting in loss of user trust, legal implications, and financial losses for the company. It is crucial for the App1 development team to prioritize security measures to mitigate this risk effectively.",
+      "application": "App1",
+      "severity": "High",
+      "likelihood": "Likely",
+      "impact": "Critical"
+    },
+    {
+      "id": "zrp4tgrqk",
+      "description": "Risk Description for Application App2:\n\n1. Risk: Data Breach\n   - Severity: High\n   - Likelihood: Moderate\n   - Impact: Critical\n\nDescription: A data breach in the application App2 could lead to unauthorized access to sensitive user information such as personal data, financial details, or login credentials. The severity of this risk is high because it could result in significant harm to users and the reputation of the organization. The likelihood is moderate as data breaches are becoming increasingly common, but proper security measures can help mitigate this risk. The impact is critical as it could lead to legal repercussions, financial losses, and damage to the trust and confidence of users in the application.\n\nPlease ensure that adequate security measures, such as encryption, access control, and regular security audits, are in place to minimize the risk of a data breach in App2.",
+      "application": "App2",
+      "severity": "High",
+      "likelihood": "Likely",
+      "impact": "Critical"
+    }
+  ],
+  "applicationControls": [
+    {
+      "id": "zsv0okgkh",
+      "description": "Control Description: This document outlines the specifications and guidelines for the control measures in place to ensure the security and integrity of data within the organization. It includes the procedures, policies, and technologies implemented to prevent unauthorized access, protect against data breaches, and maintain confidentiality, integrity, and availability of sensitive information. The control description covers access controls, data encryption, system monitoring, disaster recovery plans, incident response procedures, and other safeguards to mitigate risks and comply with relevant regulations.",
+      "risk_id": "cplgjs1wr"
+    },
+    {
+      "id": "p9rkqyqnu",
+      "description": "Control Description:\nThe control is a compact handheld device with a streamlined design, featuring a series of buttons and a responsive touchpad for easy navigation and interaction. The control provides users with a convenient way to operate various electronic devices, such as audiovisual equipment, gaming consoles, and smart home systems. Its ergonomic shape and intuitive layout make it user-friendly for individuals of all ages and technical abilities. The control is equipped with wireless connectivity options for seamless integration with compatible devices, offering a versatile and efficient means of managing entertainment and home automation functions. Additionally, the control includes a built-in rechargeable battery for long-lasting use and convenient charging via a standard USB connection. Overall, the control is a reliable and versatile tool that simplifies the management of multiple devices within a modern household or professional environment.",
+      "risk_id": "zrp4tgrqk"
+    }
+  ],
+  "applicationTestProcedures": [
+    {
+      "id": "x3insffps",
+      "description": "Test Procedure: User Registration\n\n1. Open the web browser and navigate to the homepage of the website.\n2. Locate the \"Sign Up\" or \"Register\" button on the website's homepage and click on it.\n3. Fill out the registration form with the following information: \n   - Name\n   - Email address\n   - Password\n   - Date of Birth\n   - Country\n4. Click on the \"Submit\" or \"Register\" button to create your account.\n5. Check your email inbox for a verification email from the website.\n6. Click on the verification link in the email to verify your account.\n7. Once your account is verified, log in with your email address and password to access your account.\n8. Verify that you can view your account information and make any necessary updates.\n\n9. Test Data:\n   - Name: John Doe\n   - Email address: johndoe@example.com\n   - Password: Test@123\n   - Date of Birth: 01/01/1990\n   - Country: United States\n\n10. Expected Results:\n    - The registration process should be smooth without any errors.\n    - The verification email should be received promptly.\n    - The account should be accessible after successful verification.\n    - The account information should be displayed accurately.\n\n11. If any issues are encountered during the registration process, document the error messages and steps performed before the error occurred.",
+      "control_id": "zsv0okgkh",
+      "steps": [
+        "Step 1",
+        "Step 2",
+        "Step 3"
+      ]
+    },
+    {
+      "id": "b2xpeknpn",
+      "description": "Test Procedure Description: Checking Printer Connectivity\n\n1. Ensure that the printer is connected to a power source and turned on.\n2. Check that the printer is connected to the computer either via USB cable, Wi-Fi, or network connection.\n3. Open the Control Panel on the computer.\n4. Navigate to Devices and Printers.\n5. Locate the printer in the list of devices.\n6. Right-click on the printer and select \"Printer Properties\".\n7. Go to the \"Ports\" tab and verify that the correct port is selected for the printer connection.\n8. Print a test page to confirm that the printer is functioning correctly.\n9. If the test page prints successfully, the printer connectivity is confirmed. If not, troubleshoot the connection issue.\n\nThis test procedure will help ensure that the printer is properly connected to the computer and can successfully print a test page.",
+      "control_id": "p9rkqyqnu",
+      "steps": [
+        "Step 1",
+        "Step 2",
+        "Step 3"
+      ]
+    }
+  ],
+  "vendorRisks": [
+    {
+      "id": "upvt7ur60",
+      "description": "Risk Description for Vendor1:\n\nSeverity: High\nLikelihood: Medium\nImpact: Significant\n\nDescription: Vendor1 poses a high severity risk due to its reliance on a single supplier for key components in its products. While the likelihood of supplier disruption is considered medium, the impact on Vendor1's operations could be significant if the supplier experiences delays or quality issues. This risk could lead to production delays, increased costs, and potential damage to Vendor1's reputation among its clients. It is important for Vendor1 to establish contingency plans and alternative supplier relationships to mitigate the potential impact of this risk.",
+      "vendor": "Vendor1",
+      "severity": "High",
+      "likelihood": "Likely",
+      "impact": "Critical"
+    },
+    {
+      "id": "oy1mij5nv",
+      "description": "Risk Description for Vendor Vendor2:\n\nSeverity: High\nLikelihood: Medium\nImpact: Significant\n\nVendor2 poses a high-severity risk due to its inconsistent delivery schedules and quality control issues. While the likelihood of these issues occurring is medium, the impact on our company could be significant, potentially resulting in delays in production, increased costs, and customer dissatisfaction. It is crucial to closely monitor Vendor2's performance and have contingency plans in place to mitigate these risks.",
+      "vendor": "Vendor2",
+      "severity": "High",
+      "likelihood": "Likely",
+      "impact": "Critical"
+    }
+  ],
+  "vendorControls": [
+    {
+      "id": "7epezg0e2",
+      "description": "Control Description: This document outlines the controls in place to ensure the security and integrity of data within the organization's information systems. The controls include access control measures such as user authentication and authorization, data encryption, network segmentation, regular security assessments, incident response procedures, and security training for employees. These controls are designed to protect against unauthorized access, data breaches, and other security threats that may compromise the confidentiality, integrity, and availability of the organization's data.",
+      "risk_id": "upvt7ur60"
+    },
+    {
+      "id": "6cdopdngd",
+      "description": "Control Description: This control ensures that access to sensitive information is restricted to authorized personnel only. Access is granted based on individual user credentials, role-based permissions, and the principle of least privilege. Regular reviews and audits of access rights are conducted to detect any unauthorized access and ensure compliance with security policies. Additionally, the system logs all access attempts for monitoring and investigation purposes.",
+      "risk_id": "oy1mij5nv"
+    }
+  ],
+  "vendorTestProcedures": [
+    {
+      "id": "5ft0vydfz",
+      "description": "Test Procedure Description: Testing Email Sending Functionality\n\n1. Purpose: The purpose of this test procedure is to verify the functionality of the email sending feature in the application.\n\n2. Pre-requisites:\n   - Access to the application with email sending capabilities\n   - Test email accounts for sending and receiving emails\n   - Stable internet connection\n\n3. Test Steps:\n   Step 1: Log in to the application with valid credentials.\n   Step 2: Navigate to the email sending feature within the application.\n   Step 3: Compose a new email with the test email account as the recipient.\n   Step 4: Enter a subject and content in the email body.\n   Step 5: Click on the \"Send\" button to send the email.\n   Step 6: Verify that the email is successfully sent without any errors.\n   Step 7: Log in to the test email account to check if the email has been received.\n   Step 8: Open the received email and verify that the subject and content match what was sent.\n   Step 9: Check for any attachments or formatting within the received email.\n   Step 10: Record the test results and any observations in the test report.\n\n4. Expected Results:\n   - The email should be sent successfully without any errors.\n   - The sent email should be received in the test email account.\n   - The content of the received email should match the sent email.\n   - Any attachments or formatting should be correctly displayed in the received email.\n\n5. Test Completion Criteria:\n   - All steps in the test procedure have been executed.\n   - The expected results match the actual outcomes.\n   - Any deviations or issues encountered during the test have been documented.\n\n6. Post-Test Activities:\n   - Provide a summary of the test results and findings.\n   - Report any defects or issues identified during the test.\n   - Validate the test results with the stakeholders.",
+      "control_id": "7epezg0e2",
+      "steps": [
+        "Step 1",
+        "Step 2",
+        "Step 3"
+      ]
+    },
+    {
+      "id": "khntwh85q",
+      "description": "Test Procedure Description: Testing User Login Functionality\n\n1. **Objective**: To verify the functionality of the user login process on the application.\n\n2. **Preconditions**:\n   - Make sure the application is installed and running properly.\n   - Ensure that the test user account is set up in the system.\n\n3. **Test Steps**:\n   a. Launch the application.\n   b. Navigate to the login screen.\n   c. Enter the test user credentials (username and password).\n   d. Click on the \"Login\" button.\n   e. Verify that the user is successfully logged into the system.\n   f. Check if the appropriate user dashboard or home screen is displayed.\n   g. Log out of the user account.\n   h. Verify that the user is successfully logged out and returned to the login screen.\n\n4. **Expected Results**:\n   - The user should be able to log in successfully with the correct credentials.\n   - Upon successful login, the user should be directed to the appropriate dashboard or home screen.\n   - Logging out should return the user to the login screen.\n   - Incorrect credentials should result in a login failure message.\n\n5. **Note**: Record any issues encountered during the test and report them to the development team for further investigation.",
+      "control_id": "6cdopdngd",
+      "steps": [
+        "Step 1",
+        "Step 2",
+        "Step 3"
+      ]
+    }
+  ]
+}

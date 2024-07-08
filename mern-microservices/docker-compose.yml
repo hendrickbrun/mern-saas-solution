@@ -1,0 +1,111 @@
+
+
+services:
+  user-service:
+    build: ./user-service
+    ports:
+      - "5101:5001"
+    environment:
+      - PORT=5001
+      - MONGO_URI=mongodb://mongo-user:27017/userdb
+      - JWT_SECRET=your_jwt_secret
+    depends_on:
+      - mongo-user
+
+  business-service:
+    build: ./business-service
+    ports:
+      - "5102:5002"
+    environment:
+      - PORT=5002
+      - MONGO_URI=mongodb://mongo-business:27018/businessdb
+    depends_on:
+      - mongo-business
+
+  risk-assessment-service:
+    build: ./risk-assessment-service
+    ports:
+      - "5103:5003"
+    environment:
+      - PORT=5003
+      - MONGO_URI=mongodb://mongo-risk:27019/riskdb
+    depends_on:
+      - mongo-risk
+
+  notification-service:
+    build: ./notification-service
+    ports:
+      - "5104:5004"
+    environment:
+      - PORT=5004
+      - MONGO_URI=mongodb://mongo-notification:27020/notificationdb
+    depends_on:
+      - mongo-notification
+
+  admin-service:
+    build: ./admin-service
+    ports:
+      - "5105:5005"
+    environment:
+      - PORT=5005
+      - MONGO_URI=mongodb://mongo-admin:27021/admindb
+    depends_on:
+      - mongo-admin
+
+  frontend:
+    build: ./frontend
+    ports:
+      - "3100:3000"
+    depends_on:
+      - user-service
+      - business-service
+      - risk-assessment-service
+      - notification-service
+      - admin-service
+
+  mongo-user:
+    image: mongo:latest
+    container_name: mongo-user
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo-user-data:/data/db
+
+  mongo-business:
+    image: mongo:latest
+    container_name: mongo-business
+    ports:
+      - "27018:27017"
+    volumes:
+      - mongo-business-data:/data/db
+
+  mongo-risk:
+    image: mongo:latest
+    container_name: mongo-risk
+    ports:
+      - "27019:27017"
+    volumes:
+      - mongo-risk-data:/data/db
+
+  mongo-notification:
+    image: mongo:latest
+    container_name: mongo-notification
+    ports:
+      - "27020:27017"
+    volumes:
+      - mongo-notification-data:/data/db
+
+  mongo-admin:
+    image: mongo:latest
+    container_name: mongo-admin
+    ports:
+      - "27021:27017"
+    volumes:
+      - mongo-admin-data:/data/db
+
+volumes:
+  mongo-user-data:
+  mongo-business-data:
+  mongo-risk-data:
+  mongo-notification-data:
+  mongo-admin-data:
