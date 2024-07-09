@@ -1,61 +1,60 @@
-
+version: '3.8'
 
 services:
   user-service:
     build: ./user-service
     ports:
-      - "5101:5001"
+      - "5001:5001"
     environment:
       - PORT=5001
       - MONGO_URI=mongodb://mongo-user:27017/userdb
-      - JWT_SECRET=your_jwt_secret
     depends_on:
       - mongo-user
 
   business-service:
     build: ./business-service
     ports:
-      - "5102:5002"
+      - "5002:5002"
     environment:
       - PORT=5002
-      - MONGO_URI=mongodb://mongo-business:27018/businessdb
+      - MONGO_URI=mongodb://mongo-business:27017/businessdb
     depends_on:
       - mongo-business
 
   risk-assessment-service:
     build: ./risk-assessment-service
     ports:
-      - "5103:5003"
+      - "5003:5003"
     environment:
       - PORT=5003
-      - MONGO_URI=mongodb://mongo-risk:27019/riskdb
+      - MONGO_URI=mongodb://mongo-risk:27017/riskdb
     depends_on:
       - mongo-risk
 
   notification-service:
     build: ./notification-service
     ports:
-      - "5104:5004"
+      - "5004:5004"
     environment:
       - PORT=5004
-      - MONGO_URI=mongodb://mongo-notification:27020/notificationdb
+      - MONGO_URI=mongodb://mongo-notification:27017/notificationdb
     depends_on:
       - mongo-notification
 
   admin-service:
     build: ./admin-service
     ports:
-      - "5105:5005"
+      - "5005:5005"
     environment:
       - PORT=5005
-      - MONGO_URI=mongodb://mongo-admin:27021/admindb
+      - MONGO_URI=mongodb://mongo-admin:27017/admindb
     depends_on:
       - mongo-admin
 
   frontend:
     build: ./frontend
     ports:
-      - "3100:3000"
+      - "3000:3000"
     depends_on:
       - user-service
       - business-service
